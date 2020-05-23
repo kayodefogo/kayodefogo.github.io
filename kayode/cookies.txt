@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.embedmaps.com	TRUE	/	FALSE	1999999999	__cfduid	de2f5ddd8c3159bdcae6daeafa773c3b61587636473
+embedmaps.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+kwarahotel.com	TRUE	/	FALSE	1999999999	ReservationData	{"SDate":"Check-In","ODate":"Check-Out","Duration":0,"TotalRooms":0,"TotalPrice":0.0,"ReserveList":[{"RoomId":1,"RoomName":"Standard Room","RoomAmount":16160.00,"TotalRoom":1},{"RoomId":2,"RoomName":"Executive Room","RoomAmount":24720.00,"TotalRoom":1},{"RoomId":3,"RoomName":"Kwara Club Superior","RoomAmount":26300.00,"TotalRoom":1},{"RoomId":4,"RoomName":"Kwara Club Executive","RoomAmount":29500.00,"TotalRoom":1},{"RoomId":5,"RoomName":"Kwara Club Suite","RoomAmount":46000.00,"TotalRoom":1},{"RoomId":6,"RoomName":"Presidential Suite","RoomAmount":131000.00,"TotalRoom":1}]}
+kwarahotel.com	TRUE	/	FALSE	1999999999	inDate	Check-In
+kwarahotel.com	TRUE	/	FALSE	1999999999	outDate	Check-Out
+
